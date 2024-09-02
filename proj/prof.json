@@ -1,0 +1,548 @@
+[
+    {
+        "name": "Sara Achour",
+        "title": "Assistant Professor of Computer Science and of Electrical Engineering",
+        "profile_link": "https://www.cs.stanford.edu/people/sara-achour",
+        "image": "https://www.cs.stanford.edu/sites/g/files/sbiybj28076/files/styles/stanford_circle/public/media/person/sara-achour1705436816912.jpg.png?itok=udhwc_VU"
+    },
+    {
+        "name": "Maneesh Agrawala",
+        "title": "Forest Baskett Professor and Professor, by courtesy, of Electrical Engineering",
+        "profile_link": "https://www.cs.stanford.edu/people/maneesh-agrawala",
+        "image": "https://www.cs.stanford.edu/sites/g/files/sbiybj28076/files/styles/stanford_circle/public/media/person/maneesh-agrawala1509564594980.jpg.png?itok=2U4PloS7"
+    },
+    {
+        "name": "Alex Aiken",
+        "title": "Alcatel-Lucent Professor of Communications and Networking, Professor of Particle Physics and Astrophysics, and of Photon Science",
+        "profile_link": "https://www.cs.stanford.edu/people/alex-aiken",
+        "image": "https://www.cs.stanford.edu/sites/g/files/sbiybj28076/files/styles/stanford_circle/public/media/person/alex-aiken1368774000000.jpg.png?itok=LEWwEDJw"
+    },
+    {
+        "name": "Nima Anari",
+        "title": "Assistant Professor of Computer Science",
+        "profile_link": "https://www.cs.stanford.edu/people/nima-anari",
+        "image": "https://www.cs.stanford.edu/sites/g/files/sbiybj28076/files/styles/stanford_circle/public/media/person/anari1664428972772.jpg.png?itok=qcvmuqjT"
+    },
+    {
+        "name": "Zain Asgar",
+        "title": "Adjunct Professor",
+        "profile_link": "https://www.cs.stanford.edu/people/zain-asgar",
+        "image": "https://www.cs.stanford.edu/sites/g/files/sbiybj28076/files/styles/stanford_circle/public/media/image/stanford-person-default-profile-image.png?itok=NJMkVTp_"
+    },
+    {
+        "name": "Stephen B. Montgomery",
+        "title": "Professor of Pathology, of Genetics and of Biomedical Data Science, by courtesy, of Computer Science",
+        "profile_link": "https://www.cs.stanford.edu/people/stephen-b-montgomery",
+        "image": "https://www.cs.stanford.edu/sites/g/files/sbiybj28076/files/styles/stanford_circle/public/media/image/stephen-montgomery1596300088395_1.jpg.png?itok=QOlqfnu9"
+    },
+    {
+        "name": "Peter Bailis",
+        "title": "Adjunct Professor",
+        "profile_link": "https://www.cs.stanford.edu/people/peter-bailis-0",
+        "image": "https://www.cs.stanford.edu/sites/g/files/sbiybj28076/files/styles/stanford_circle/public/media/image/stanford-person-default-profile-image.png?itok=NJMkVTp_"
+    },
+    {
+        "name": "Clark Barrett",
+        "title": "Professor (Research) of Computer Science",
+        "profile_link": "https://www.cs.stanford.edu/people/clark-barrett",
+        "image": "https://www.cs.stanford.edu/sites/g/files/sbiybj28076/files/styles/stanford_circle/public/media/person/clark-barrett1627234161383.jpg.png?itok=Be_VHykH"
+    },
+    {
+        "name": "Gill Bejerano",
+        "title": "Professor of Developmental Biology, of Computer Science, of Pediatrics (Genetics) and of Biomedical Data Science",
+        "profile_link": "https://www.cs.stanford.edu/people/gill-bejerano",
+        "image": "https://www.cs.stanford.edu/sites/g/files/sbiybj28076/files/styles/stanford_circle/public/media/person/gill-bejerano1628984517681.jpg.png?itok=3SSkrrKo"
+    },
+    {
+        "name": "Michael Bernstein",
+        "title": "Associate Professor of Computer Science",
+        "profile_link": "https://www.cs.stanford.edu/people/michael-bernstein",
+        "image": "https://www.cs.stanford.edu/sites/g/files/sbiybj28076/files/styles/stanford_circle/public/media/person/michael-bernstein1654053828690.jpg.png?itok=b3MWMovJ"
+    },
+    {
+        "name": "Thomas Binford",
+        "title": "Professor (research) of Computer Science, Emeritus",
+        "profile_link": "https://www.cs.stanford.edu/people/thomas-binford",
+        "image": "https://www.cs.stanford.edu/sites/g/files/sbiybj28076/files/styles/stanford_circle/public/media/image/stanford-person-default-profile-image.png?itok=NJMkVTp_"
+    },
+    {
+        "name": "Jeannette Bohg",
+        "title": "Assistant Professor of Computer Science",
+        "profile_link": "https://www.cs.stanford.edu/people/jeannette-bohg",
+        "image": "https://www.cs.stanford.edu/sites/g/files/sbiybj28076/files/styles/stanford_circle/public/media/person/jeannette-bohg1581348490243.jpg.png?itok=2hMfAv7T"
+    },
+    {
+        "name": "Dan Boneh",
+        "title": "Cryptography Professor, Professor of Electrical Engineering and Senior Fellow at the Freeman Spogli Institute for International Studies",
+        "profile_link": "https://www.cs.stanford.edu/people/dan-boneh",
+        "image": "https://www.cs.stanford.edu/sites/g/files/sbiybj28076/files/styles/stanford_circle/public/media/person/dan-boneh1509499405882.jpg.png?itok=um1eYbOC"
+    },
+    {
+        "name": "Adam Bouland",
+        "title": "Assistant Professor of Computer Science",
+        "profile_link": "https://www.cs.stanford.edu/people/adam-bouland",
+        "image": "https://www.cs.stanford.edu/sites/g/files/sbiybj28076/files/styles/stanford_circle/public/media/person/adam-bouland1606332229851.jpg.png?itok=5wcdnTZE"
+    },
+    {
+        "name": "Emma Brunskill",
+        "title": "Associate Professor of Computer Science and, by courtesy, of Education",
+        "profile_link": "https://www.cs.stanford.edu/people/emma-brunskill",
+        "image": "https://www.cs.stanford.edu/sites/g/files/sbiybj28076/files/styles/stanford_circle/public/media/person/emma-brunskill1509503897960.jpg.png?itok=62qZ36ag"
+    },
+    {
+        "name": "Mike Carbin Carbin",
+        "title": "Visiting Associate Professor",
+        "profile_link": "https://www.cs.stanford.edu/people/mike-carbin",
+        "image": "https://www.cs.stanford.edu/sites/g/files/sbiybj28076/files/styles/stanford_circle/public/media/image/stanford-person-default-profile-image.png?itok=NJMkVTp_"
+    },
+    {
+        "name": "Edward Chang",
+        "title": "Acting Professor, Computer Science",
+        "profile_link": "https://www.cs.stanford.edu/people/edward-chang-0",
+        "image": "https://www.cs.stanford.edu/sites/g/files/sbiybj28076/files/styles/stanford_circle/public/media/image/edwardchangstanforduniversity001_0.jpg.png?itok=vnX9SR0f"
+    },
+    {
+        "name": "Moses Charikar",
+        "title": "Donald E. Knuth Professor and Professor, by courtesy, of Mathematics",
+        "profile_link": "https://www.cs.stanford.edu/people/moses-charikar",
+        "image": "https://www.cs.stanford.edu/sites/g/files/sbiybj28076/files/styles/stanford_circle/public/media/person/moses-charikar1531127453978.jpg.png?itok=jpLUgQcO"
+    },
+    {
+        "name": "William Dally",
+        "title": "Adjunct Professor, Emeritus",
+        "profile_link": "https://www.cs.stanford.edu/people/william-dally-0",
+        "image": "https://www.cs.stanford.edu/sites/g/files/sbiybj28076/files/styles/stanford_circle/public/media/image/stanford-person-default-profile-image.png?itok=NJMkVTp_"
+    },
+    {
+        "name": "Dora Demszky",
+        "title": "Assistant Professor, Graduate School of Education, Assistant Professor, by courtesy, Computer Science",
+        "profile_link": "https://www.cs.stanford.edu/people/dora-demszky",
+        "image": "https://www.cs.stanford.edu/sites/g/files/sbiybj28076/files/styles/stanford_circle/public/media/image/viewimage2_0.jpeg.png?itok=7tAtD00i"
+    },
+    {
+        "name": "Ron Dror",
+        "title": "Cheriton Family Professor and Professor, by courtesy, of Structural Biology and of Molecular & Cellular Physiology",
+        "profile_link": "https://www.cs.stanford.edu/people/ron-dror",
+        "image": "https://www.cs.stanford.edu/sites/g/files/sbiybj28076/files/styles/stanford_circle/public/media/person/ron-dror1520301604203.jpg.png?itok=wOPGSDzD"
+    },
+    {
+        "name": "Zakir Durumeric",
+        "title": "Assistant Professor of Computer Science",
+        "profile_link": "https://www.cs.stanford.edu/people/zakir-durumeric",
+        "image": "https://www.cs.stanford.edu/sites/g/files/sbiybj28076/files/styles/stanford_circle/public/media/person/zakir1625450158219.jpg.png?itok=LKJqXZWY"
+    },
+    {
+        "name": "Dawson Engler",
+        "title": "Associate Professor of Computer Science and of Electrical Engineering",
+        "profile_link": "https://www.cs.stanford.edu/people/dawson-engler",
+        "image": "https://www.cs.stanford.edu/sites/g/files/sbiybj28076/files/styles/stanford_circle/public/media/person/dawson-engler1509503157359.jpg.png?itok=R3Wd6Z8y"
+    },
+    {
+        "name": "Stefano Ermon",
+        "title": "Associate Professor of Computer Science and Senior Fellow at the Woods Institute for the Environment",
+        "profile_link": "https://www.cs.stanford.edu/people/stefano-ermon",
+        "image": "https://www.cs.stanford.edu/sites/g/files/sbiybj28076/files/styles/stanford_circle/public/media/person/stefano-ermon1581810042728.jpg.png?itok=Z0yXVHfx"
+    },
+    {
+        "name": "Kayvon Fatahalian",
+        "title": "Associate Professor of Computer Science",
+        "profile_link": "https://www.cs.stanford.edu/people/kayvon-fatahalian",
+        "image": "https://www.cs.stanford.edu/sites/g/files/sbiybj28076/files/styles/stanford_circle/public/media/person/kayvon-fatahalian1688083483676.jpg.png?itok=bPyFW94-"
+    },
+    {
+        "name": "Ron Fedkiw",
+        "title": "Canon Professor in the School of Engineering",
+        "profile_link": "https://www.cs.stanford.edu/people/ron-fedkiw",
+        "image": "https://www.cs.stanford.edu/sites/g/files/sbiybj28076/files/styles/stanford_circle/public/media/person/ron-fedkiw1509536111047.jpg.png?itok=0rhYo1mE"
+    },
+    {
+        "name": "Edward Feigenbaum",
+        "title": "Professor of Computer Science, Emeritus",
+        "profile_link": "https://www.cs.stanford.edu/people/edward-feigenbaum",
+        "image": "https://www.cs.stanford.edu/sites/g/files/sbiybj28076/files/styles/stanford_circle/public/media/image/ed_feigenbaum_0_0.jpg.png?itok=C3RM9hRK"
+    },
+    {
+        "name": "Chelsea Finn",
+        "title": "Assistant Professor of Computer Science and of Electrical Engineering",
+        "profile_link": "https://www.cs.stanford.edu/people/chelsea-finn",
+        "image": "https://www.cs.stanford.edu/sites/g/files/sbiybj28076/files/styles/stanford_circle/public/media/person/chelsea-finn1655521282579.jpg.png?itok=YzU7hZKC"
+    },
+    {
+        "name": "Emily Fox",
+        "title": "Professor of Statistics and of Computer Science",
+        "profile_link": "https://www.cs.stanford.edu/people/emily-fox",
+        "image": "https://www.cs.stanford.edu/sites/g/files/sbiybj28076/files/styles/stanford_circle/public/media/person/2486401646854997992.jpg.png?itok=Yd6GDpWp"
+    },
+    {
+        "name": "Adrien Gaidon",
+        "title": "Adjunct Professor",
+        "profile_link": "https://www.cs.stanford.edu/people/adrien-gaidon",
+        "image": "https://www.cs.stanford.edu/sites/g/files/sbiybj28076/files/styles/stanford_circle/public/media/image/stanford-person-default-profile-image.png?itok=NJMkVTp_"
+    },
+    {
+        "name": "Michael Genesereth",
+        "title": "Associate Professor of Computer Science",
+        "profile_link": "https://www.cs.stanford.edu/people/michael-genesereth",
+        "image": "https://www.cs.stanford.edu/sites/g/files/sbiybj28076/files/styles/stanford_circle/public/media/person/michael-genesereth1219536232000.jpg.png?itok=pAF4Dhj7"
+    },
+    {
+        "name": "Noah Goodman",
+        "title": "Associate Professor of Psychology, of Computer Science and, by courtesy, of Linguistics",
+        "profile_link": "https://www.cs.stanford.edu/people/noah-goodman",
+        "image": "https://www.cs.stanford.edu/sites/g/files/sbiybj28076/files/styles/stanford_circle/public/media/person/noah-goodman1509529004826.jpg.png?itok=3wfbB7Mw"
+    },
+    {
+        "name": "Christopher Gregg",
+        "title": "Associate Professor (Teaching) of Computer Science",
+        "profile_link": "https://www.cs.stanford.edu/people/christopher-gregg",
+        "image": "https://www.cs.stanford.edu/sites/g/files/sbiybj28076/files/styles/stanford_circle/public/media/person/christopher-gregg1517862870400.jpg.png?itok=txqOyYwT"
+    },
+    {
+        "name": "Carlos Ernesto Guestrin",
+        "title": "Professor of Computer Science",
+        "profile_link": "https://www.cs.stanford.edu/people/carlos-guestrin",
+        "image": "https://www.cs.stanford.edu/sites/g/files/sbiybj28076/files/styles/stanford_circle/public/media/person/carlos-guestrin1629418111528.jpg.png?itok=ZHsBQZoQ"
+    },
+    {
+        "name": "Leonidas Guibas",
+        "title": "Paul Pigott Professor of Engineering and Professor, by courtesy, of Electrical Engineering",
+        "profile_link": "https://www.cs.stanford.edu/people/leonidas-guibas",
+        "image": "https://www.cs.stanford.edu/sites/g/files/sbiybj28076/files/styles/stanford_circle/public/media/person/leonidas-guibas1368774000000.jpg.png?itok=0cH0lukp"
+    },
+    {
+        "name": "Christopher Hahn",
+        "title": "Visiting Associate Professor",
+        "profile_link": "https://www.cs.stanford.edu/people/christopher-hahn-0",
+        "image": "https://www.cs.stanford.edu/sites/g/files/sbiybj28076/files/styles/stanford_circle/public/media/image/stanford-person-default-profile-image.png?itok=NJMkVTp_"
+    },
+    {
+        "name": "Tatsunori Hashimoto",
+        "title": "Assistant Professor of Computer Science",
+        "profile_link": "https://www.cs.stanford.edu/people/tatsunori-hashimoto",
+        "image": "https://www.cs.stanford.edu/sites/g/files/sbiybj28076/files/styles/stanford_circle/public/media/person/tatsunori-hashimoto1599260316136.jpg.png?itok=AVzDt-t5"
+    },
+    {
+        "name": "John Hennessy",
+        "title": "President Emeritus, Shriram Family Director of the Knight-Hennessy Scholars Program, James F. and Mary Lynn Gibbons Professor and Professor of Electrical Engineering and of Computer Science",
+        "profile_link": "https://www.cs.stanford.edu/people/john-hennessy",
+        "image": "https://www.cs.stanford.edu/sites/g/files/sbiybj28076/files/styles/stanford_circle/public/media/person/john-hennessy1509505859046.jpg.png?itok=1gfNw3eZ"
+    },
+    {
+        "name": "Daniel Ho",
+        "title": "William Benjamin Scott & Luna M. Scott Professor of Law, Professor of Political Science, Senior Fellow at the Stanford Institute for Economic Policy Research, at the Stanford Institute for HAI and Professor, by courtesy, of Computer Science",
+        "profile_link": "https://www.cs.stanford.edu/people/daniel-ho",
+        "image": "https://www.cs.stanford.edu/sites/g/files/sbiybj28076/files/styles/stanford_circle/public/media/person/daniel-ho1599611053066.jpg.png?itok=xzZd4XlQ"
+    },
+    {
+        "name": "Mark Horowitz",
+        "title": "Fortinet Founders Chair of the Department of Electrical Engineering , Yahoo! Founders Professor in the School of Engineering and Professor of Computer Science",
+        "profile_link": "https://www.cs.stanford.edu/people/mark-horowitz",
+        "image": "https://www.cs.stanford.edu/sites/g/files/sbiybj28076/files/styles/stanford_circle/public/media/person/mark-horowitz1564676348474.jpg.png?itok=qosfJ0gR"
+    },
+    {
+        "name": "Doug James",
+        "title": "Professor of Computer Science and, by courtesy, of Music",
+        "profile_link": "https://www.cs.stanford.edu/people/doug-james",
+        "image": "https://www.cs.stanford.edu/sites/g/files/sbiybj28076/files/styles/stanford_circle/public/media/person/doug-james1630433858485.jpg.png?itok=yWPkyWGn"
+    },
+    {
+        "name": "Dan Jurafsky",
+        "title": "Reynolds Professor in Humanities, Professor of Linguistics, Professor of Computer Science Stanford University",
+        "profile_link": "https://www.cs.stanford.edu/people/dan-jurafsky",
+        "image": "https://www.cs.stanford.edu/sites/g/files/sbiybj28076/files/styles/stanford_circle/public/media/image/jurafskyjuly22_0.jpeg.png?itok=aH6zerxm"
+    },
+    {
+        "name": "Zerina Kapetanovic",
+        "title": "Assistant Professor of Electrical Engineering and, by courtesy, of Computer Science and of Geophysics",
+        "profile_link": "https://www.cs.stanford.edu/people/zerina-kapetanovic",
+        "image": "https://www.cs.stanford.edu/sites/g/files/sbiybj28076/files/styles/stanford_circle/public/media/image/zerina-kapetanovic_profilephoto_0.jpg.png?itok=NV9drYkH"
+    },
+    {
+        "name": "Sachin Katti",
+        "title": "Adjunct Professor, Emeritus",
+        "profile_link": "https://www.cs.stanford.edu/people/sachin-katti-0",
+        "image": "https://www.cs.stanford.edu/sites/g/files/sbiybj28076/files/styles/stanford_circle/public/media/image/stanford-person-default-profile-image.png?itok=NJMkVTp_"
+    },
+    {
+        "name": "Oussama Khatib",
+        "title": "Weichai Professor and Professor, by courtesy, of Electrical Engineering",
+        "profile_link": "https://www.cs.stanford.edu/people/oussama-khatib",
+        "image": "https://www.cs.stanford.edu/sites/g/files/sbiybj28076/files/styles/stanford_circle/public/media/person/oussama-khatib1538927290732.jpg.png?itok=FaowBYFc"
+    },
+    {
+        "name": "Fredrik Kjolstad",
+        "title": "Assistant Professor of Computer Science",
+        "profile_link": "https://www.cs.stanford.edu/people/fredrik-kjoelstad",
+        "image": "https://www.cs.stanford.edu/sites/g/files/sbiybj28076/files/styles/stanford_circle/public/media/person/fredrik-kjoelstad1583972186878.jpg.png?itok=zjzjknKz"
+    },
+    {
+        "name": "Oluwasanmi Koyejo",
+        "title": "Assistant Professor of Computer Science",
+        "profile_link": "https://www.cs.stanford.edu/people/sanmi-koyejo",
+        "image": "https://www.cs.stanford.edu/sites/g/files/sbiybj28076/files/styles/stanford_circle/public/media/image/stanford-person-default-profile-image.png?itok=NJMkVTp_"
+    },
+    {
+        "name": "Christoforos Kozyrakis",
+        "title": "Professor of Electrical Engineering and of Computer Science",
+        "profile_link": "https://www.cs.stanford.edu/people/christos-kozyrakis",
+        "image": "https://www.cs.stanford.edu/sites/g/files/sbiybj28076/files/styles/stanford_circle/public/media/person/christoforos-kozyrakis1509513806188.jpg.png?itok=FqUMXoJM"
+    },
+    {
+        "name": "Anshul Kundaje",
+        "title": "Associate Professor of Genetics and of Computer Science",
+        "profile_link": "https://www.cs.stanford.edu/people/anshul-kundaje",
+        "image": "https://www.cs.stanford.edu/sites/g/files/sbiybj28076/files/styles/stanford_circle/public/media/person/anshul-kundaje1522462032859.jpg.png?itok=nBnQS9Hp"
+    },
+    {
+        "name": "Monica Lam",
+        "title": "Kleiner Perkins, Mayfield, Sequoia Capital Professor in the School of Engineering and Professor, by courtesy, of Electrical Engineering",
+        "profile_link": "https://www.cs.stanford.edu/people/monica-lam",
+        "image": "https://www.cs.stanford.edu/sites/g/files/sbiybj28076/files/styles/stanford_circle/public/media/person/monica-lam1509517632815.jpg.png?itok=XqpdqRap"
+    },
+    {
+        "name": "James Landay",
+        "title": "Denning Co-Director (Acting) of Stanford HAI, Anand Rajaraman and Venky Harinarayan Professor and Senior Fellow at the Stanford Institute for HAI",
+        "profile_link": "https://www.cs.stanford.edu/people/james-landay",
+        "image": "https://www.cs.stanford.edu/sites/g/files/sbiybj28076/files/styles/stanford_circle/public/media/person/james-landay1550864054869.jpg.png?itok=q9NWoo28"
+    },
+    {
+        "name": "Jure Leskovec",
+        "title": "Professor of Computer Science",
+        "profile_link": "https://www.cs.stanford.edu/people/jure-leskovec",
+        "image": "https://www.cs.stanford.edu/sites/g/files/sbiybj28076/files/styles/stanford_circle/public/media/person/jure-leskovec1311663600000.jpg.png?itok=usTiMEDT"
+    },
+    {
+        "name": "Philip Levis",
+        "title": "Professor of Computer Science and of Electrical Engineering",
+        "profile_link": "https://www.cs.stanford.edu/people/philip-levis",
+        "image": "https://www.cs.stanford.edu/sites/g/files/sbiybj28076/files/styles/stanford_circle/public/media/person/philip-levis1509533314154.jpg.png?itok=KGiU682C"
+    },
+    {
+        "name": "Fei-Fei Li",
+        "title": "Sequoia Capital Professor, Denning Co-Director (On Leave) of Stanford HAI, Senior Fellow at HAI and Professor, by courtesy, of Operations, Information and Technology at the Graduate School of Business",
+        "profile_link": "https://www.cs.stanford.edu/people/fei-fei-li",
+        "image": "https://www.cs.stanford.edu/sites/g/files/sbiybj28076/files/styles/stanford_circle/public/media/person/fei-fei-li1550534393295.jpg.png?itok=VVU-h--1"
+    },
+    {
+        "name": "Percy Liang",
+        "title": "Associate Professor of Computer Science, Senior Fellow at the Stanford Institute for HAI, and Associate Professor, by courtesy, of Statistics",
+        "profile_link": "https://www.cs.stanford.edu/people/percy-liang",
+        "image": "https://www.cs.stanford.edu/sites/g/files/sbiybj28076/files/styles/stanford_circle/public/media/person/percy-liang1583907711544.jpg.png?itok=0Lz0XI7X"
+    },
+    {
+        "name": "C. Karen Liu",
+        "title": "Professor of Computer Science",
+        "profile_link": "https://www.cs.stanford.edu/people/karen-liu",
+        "image": "https://www.cs.stanford.edu/sites/g/files/sbiybj28076/files/styles/stanford_circle/public/media/person/c-karen-liu1566448250851.jpg.png?itok=RindRZkG"
+    },
+    {
+        "name": "Tengyu Ma",
+        "title": "Assistant Professor of Computer Science",
+        "profile_link": "https://www.cs.stanford.edu/people/tengyu-ma",
+        "image": "https://www.cs.stanford.edu/sites/g/files/sbiybj28076/files/styles/stanford_circle/public/media/person/tengyu-ma1593493224026.jpg.png?itok=ycOLWQuq"
+    },
+    {
+        "name": "Christopher Manning",
+        "title": "Thomas M. Siebel Professor of Machine Learning, Professor of Linguistics, of Computer Science and Senior Fellow at the Stanford Institute for HAI",
+        "profile_link": "https://www.cs.stanford.edu/people/christopher-manning",
+        "image": "https://www.cs.stanford.edu/sites/g/files/sbiybj28076/files/styles/stanford_circle/public/media/person/chris-manning1509520661198.jpg.png?itok=OqXxHAu5"
+    },
+    {
+        "name": "David Mazieres",
+        "title": "Professor of Computer Science",
+        "profile_link": "https://www.cs.stanford.edu/people/david-mazieres",
+        "image": "https://www.cs.stanford.edu/sites/g/files/sbiybj28076/files/styles/stanford_circle/public/media/person/david-mazieres1530135936875.jpg.png?itok=-ZReTUoF"
+    },
+    {
+        "name": "Azalia Mirhoseini",
+        "title": "Assistant Professor of Computer Science",
+        "profile_link": "https://www.cs.stanford.edu/people/azalia-mirhoseini",
+        "image": "https://www.cs.stanford.edu/sites/g/files/sbiybj28076/files/styles/stanford_circle/public/media/person/azalia-mirhoseini1693794610067.jpg.png?itok=oMIdIox6"
+    },
+    {
+        "name": "John Mitchell",
+        "title": "Mary and Gordon Crary Family Professor in the School of Engineering, and Professor, by courtesy, of Electrical Engineering and of Education",
+        "profile_link": "https://www.cs.stanford.edu/people/john-mitchell",
+        "image": "https://www.cs.stanford.edu/sites/g/files/sbiybj28076/files/styles/stanford_circle/public/media/person/john-mitchell1577667686227.jpg.png?itok=dDgy2B74"
+    },
+    {
+        "name": "Subhasish Mitra",
+        "title": "William E. Ayer Professor of Electrical Engineering and Professor of Computer Science",
+        "profile_link": "https://www.cs.stanford.edu/people/subhasish-mitra",
+        "image": "https://www.cs.stanford.edu/sites/g/files/sbiybj28076/files/styles/stanford_circle/public/media/person/subhasish-mitra1509543726537.jpg.png?itok=DzYrB1lY"
+    },
+    {
+        "name": "Kunle Olukotun",
+        "title": "Cadence Design Systems Professor, Professor of Electrical Engineering and of Computer Science",
+        "profile_link": "https://www.cs.stanford.edu/people/oyekunle-olukotun",
+        "image": "https://www.cs.stanford.edu/sites/g/files/sbiybj28076/files/styles/stanford_circle/public/media/person/kunle-olukotun1553893997357.jpg.png?itok=T9HZqYd3"
+    },
+    {
+        "name": "John Ousterhout",
+        "title": "Leonard Bosack and Sandy K. Lerner Professor of Engineering, Professor of Computer Science and, by courtesy, of Electrical Engineering",
+        "profile_link": "https://www.cs.stanford.edu/people/john-ousterhout",
+        "image": "https://www.cs.stanford.edu/sites/g/files/sbiybj28076/files/styles/stanford_circle/public/media/person/john-ousterhout1509531987289.jpg.png?itok=wSNSULbs"
+    },
+    {
+        "name": "Christopher Piech",
+        "title": "Assistant Professor (Teaching) of Computer Science and, by courtesy, of Education",
+        "profile_link": "https://www.cs.stanford.edu/people/chris-piech",
+        "image": "https://www.cs.stanford.edu/sites/g/files/sbiybj28076/files/styles/stanford_circle/public/media/person/christopher-piech1542040517577.jpg.png?itok=xtkcQSWu"
+    },
+    {
+        "name": "Balaji Prabhakar",
+        "title": "VMware Founders Professor of Computer Science, Professor of Electrical Engineering and, by courtesy, of Operations, Information and Technology at the Graduate School of Business",
+        "profile_link": "https://www.cs.stanford.edu/people/balaji-prabhakar",
+        "image": "https://www.cs.stanford.edu/sites/g/files/sbiybj28076/files/styles/stanford_circle/public/media/person/balaji-prabhakar1219474800000.jpg.png?itok=9BLHo_yl"
+    },
+    {
+        "name": "Priyanka Raina",
+        "title": "Assistant Professor of Electrical Engineering, by courtesy, of Computer Science",
+        "profile_link": "https://www.cs.stanford.edu/people/priyanka-raina-0",
+        "image": "https://www.cs.stanford.edu/sites/g/files/sbiybj28076/files/styles/stanford_circle/public/media/image/priyanka-raina1537163283470.jpg_0.png?itok=4cLb32ah"
+    },
+    {
+        "name": "Christopher Re",
+        "title": "Associate Professor of Computer Science",
+        "profile_link": "https://www.cs.stanford.edu/people/chris-re",
+        "image": "https://www.cs.stanford.edu/sites/g/files/sbiybj28076/files/styles/stanford_circle/public/media/image/stanford-person-default-profile-image.png?itok=NJMkVTp_"
+    },
+    {
+        "name": "Omer Reingold",
+        "title": "Rajeev Motwani Professor of Computer Science",
+        "profile_link": "https://www.cs.stanford.edu/people/omer-reingold",
+        "image": "https://www.cs.stanford.edu/sites/g/files/sbiybj28076/files/styles/stanford_circle/public/media/person/omer-reingold1416420007000.jpg.png?itok=r05nnfo-"
+    },
+    {
+        "name": "Bruno Ribeiro",
+        "title": "Visiting Associate Professor",
+        "profile_link": "https://www.cs.stanford.edu/people/bruno-robeiro",
+        "image": "https://www.cs.stanford.edu/sites/g/files/sbiybj28076/files/styles/stanford_circle/public/media/image/bruno-felisberto-martins-ribeiro_profilephoto_0.jpg.png?itok=BGKyMNl9"
+    },
+    {
+        "name": "Mendel Rosenblum",
+        "title": "Cheriton Family Professor and Professor of Electrical Engineering",
+        "profile_link": "https://www.cs.stanford.edu/people/mendel-rosenblum",
+        "image": "https://www.cs.stanford.edu/sites/g/files/sbiybj28076/files/styles/stanford_circle/public/media/person/mendel-rosenblum1509522114120.jpg.png?itok=YP2cJ7Td"
+    },
+    {
+        "name": "Aviad Rubinstein",
+        "title": "Assistant Professor of Computer Science",
+        "profile_link": "https://www.cs.stanford.edu/people/aviad-rubinstein",
+        "image": "https://www.cs.stanford.edu/sites/g/files/sbiybj28076/files/styles/stanford_circle/public/media/image/stanford-person-default-profile-image.png?itok=NJMkVTp_"
+    },
+    {
+        "name": "Dorsa Sadigh",
+        "title": "Assistant Professor of Computer Science and of Electrical Engineering",
+        "profile_link": "https://www.cs.stanford.edu/people/dorsa-sadigh",
+        "image": "https://www.cs.stanford.edu/sites/g/files/sbiybj28076/files/styles/stanford_circle/public/media/person/dorsa-sadigh1509500766642.jpg.png?itok=Qf9DUOHu"
+    },
+    {
+        "name": "Mehran Sahami",
+        "title": "Tencent Chair of the of the Computer Science Department, James and Ellenor Chesebrough Professor and Senior Fellow, by courtesy, at the Freeman Spogli Institute for International Studies",
+        "profile_link": "https://www.cs.stanford.edu/people/mehran-sahami",
+        "image": "https://www.cs.stanford.edu/sites/g/files/sbiybj28076/files/styles/stanford_circle/public/media/person/mehran-sahami1288780468000.jpg.png?itok=KfQDOAvo"
+    },
+    {
+        "name": "Tselil Schramm",
+        "title": "Assistant professor of statistics and, by courtesy, of computer science",
+        "profile_link": "https://www.cs.stanford.edu/people/tselil-schramm",
+        "image": "https://www.cs.stanford.edu/sites/g/files/sbiybj28076/files/styles/stanford_circle/public/media/image/schramm_0.jpg.png?itok=3hvOuJMH"
+    },
+    {
+        "name": "Aaron Sidford",
+        "title": "Associate Professor of Management Science and Engineering and of Computer Science",
+        "profile_link": "https://www.cs.stanford.edu/people/aaron-sidford",
+        "image": "https://www.cs.stanford.edu/sites/g/files/sbiybj28076/files/styles/stanford_circle/public/media/person/aaron-sidford1539798458862.jpg.png?itok=Mw-2C3RG"
+    },
+    {
+        "name": "Micah Steven Siegel",
+        "title": "Visiting Professor",
+        "profile_link": "https://www.cs.stanford.edu/people/micah-steven-siegel",
+        "image": "https://www.cs.stanford.edu/sites/g/files/sbiybj28076/files/styles/stanford_circle/public/media/image/micahsiegel_0.jpg.png?itok=saHcvW9K"
+    },
+    {
+        "name": "Shuran Song",
+        "title": "Assistant professor of electrical engineering and, by courtesy, of computer science",
+        "profile_link": "https://www.cs.stanford.edu/people/shuran-song",
+        "image": "https://www.cs.stanford.edu/sites/g/files/sbiybj28076/files/styles/stanford_circle/public/media/image/shuran-song_profilephoto_0.jpg.png?itok=gR3ZmGau"
+    },
+    {
+        "name": "Hariharan Subramonyam",
+        "title": "Assistant professor (research) of education and, by courtesy, of computer science",
+        "profile_link": "https://www.cs.stanford.edu/people/hariharan-subramonyam",
+        "image": "https://www.cs.stanford.edu/sites/g/files/sbiybj28076/files/styles/stanford_circle/public/media/image/hariharan-subramonyam_profilephoto_0.jpg.png?itok=vcbOl5ch"
+    },
+    {
+        "name": "Vasilis Syrgkanis",
+        "title": "Assistant professor of management science and engineering and, by courtesy, of computer science and electrical engineering",
+        "profile_link": "https://www.cs.stanford.edu/people/vasilis-syrgkanis",
+        "image": "https://www.cs.stanford.edu/sites/g/files/sbiybj28076/files/styles/stanford_circle/public/media/image/vasilis-syrgkanis_profilephoto_0.jpg.png?itok=BCb881xv"
+    },
+    {
+        "name": "Li-Yang Tan",
+        "title": "Assistant Professor of Computer Science",
+        "profile_link": "https://www.cs.stanford.edu/people/li-yang-tan",
+        "image": "https://www.cs.stanford.edu/sites/g/files/sbiybj28076/files/styles/stanford_circle/public/media/image/stanford-person-default-profile-image.png?itok=NJMkVTp_"
+    },
+    {
+        "name": "Caroline Trippel",
+        "title": "Assistant Professor of Computer Science and of Electrical Engineering",
+        "profile_link": "https://www.cs.stanford.edu/people/caroline-trippel",
+        "image": "https://www.cs.stanford.edu/sites/g/files/sbiybj28076/files/styles/stanford_circle/public/media/person/caroline-trippel1571797389329.jpg.png?itok=t1irL3HZ"
+    },
+    {
+        "name": "Gregory Valiant",
+        "title": "Associate Professor of Computer Science",
+        "profile_link": "https://www.cs.stanford.edu/people/gregory-valiant",
+        "image": "https://www.cs.stanford.edu/sites/g/files/sbiybj28076/files/styles/stanford_circle/public/media/person/gregory-valiant1509504690906.jpg.png?itok=66vX-RL2"
+    },
+    {
+        "name": "Ellen Vitercik",
+        "title": "Assistant Professor of Management Sciences and Engineering and of Computer Science",
+        "profile_link": "https://www.cs.stanford.edu/people/ellen-vitercik",
+        "image": "https://www.cs.stanford.edu/sites/g/files/sbiybj28076/files/styles/stanford_circle/public/media/person/ellen-vitercik1659031092776.jpg.png?itok=ztbjTWDs"
+    },
+    {
+        "name": "Jennifer Widom",
+        "title": "Frederick Emmons Terman Dean of the School of Engineering Fletcher Jones Professor in Computer Science and Electrical Engineering",
+        "profile_link": "https://www.cs.stanford.edu/people/jennifer-widom-0",
+        "image": "https://www.cs.stanford.edu/sites/g/files/sbiybj28076/files/styles/stanford_circle/public/media/image/jennifer-widom_profilephoto_0.jpg.png?itok=_gLZtkaU"
+    },
+    {
+        "name": "Keith Winstein",
+        "title": "Associate Professor of Computer Science and, by courtesy, of Electrical Engineering",
+        "profile_link": "https://www.cs.stanford.edu/people/keith-winstein",
+        "image": "https://www.cs.stanford.edu/sites/g/files/sbiybj28076/files/styles/stanford_circle/public/media/person/keith-winstein1593999079309.jpg.png?itok=3d_gEbUf"
+    },
+    {
+        "name": "Mary Wootters",
+        "title": "Associate Professor of Computer Science and of Electrical Engineering",
+        "profile_link": "https://www.cs.stanford.edu/people/mary-wootters",
+        "image": "https://www.cs.stanford.edu/sites/g/files/sbiybj28076/files/styles/stanford_circle/public/media/person/mary-wootters1509524805920.jpg.png?itok=K4inB3_4"
+    },
+    {
+        "name": "Jiajun Wu",
+        "title": "Assistant Professor of Computer Science and, by courtesy, of Psychology",
+        "profile_link": "https://www.cs.stanford.edu/people/jiajun-wu",
+        "image": "https://www.cs.stanford.edu/sites/g/files/sbiybj28076/files/styles/stanford_circle/public/media/person/jiajun-wu1579541231606.jpg.png?itok=kPIXaR-H"
+    },
+    {
+        "name": "Daniel Yamins",
+        "title": "Assistant Professor of Psychology and of Computer Science",
+        "profile_link": "https://www.cs.stanford.edu/people/dan-yamins",
+        "image": "https://www.cs.stanford.edu/sites/g/files/sbiybj28076/files/styles/stanford_circle/public/media/person/daniel-yamins1509565007885.jpg.png?itok=ndkhseIN"
+    },
+    {
+        "name": "Diyi Yang",
+        "title": "Assistant Professor of Computer Science",
+        "profile_link": "https://www.cs.stanford.edu/people/diyi-yang",
+        "image": "https://www.cs.stanford.edu/sites/g/files/sbiybj28076/files/styles/stanford_circle/public/media/person/diyi-yang1533352430623.jpg.png?itok=qG3nDjuJ"
+    },
+    {
+        "name": "James Zou",
+        "title": "Associate Professor of Biomedical Data Science, by courtesy, of Computer Science",
+        "profile_link": "https://www.cs.stanford.edu/people/james-zou-0",
+        "image": "https://www.cs.stanford.edu/sites/g/files/sbiybj28076/files/styles/stanford_circle/public/media/image/james-zou1509509766668.jpg_0.png?itok=AVSsagZo"
+    }
+]
